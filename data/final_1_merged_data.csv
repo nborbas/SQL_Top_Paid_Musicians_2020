@@ -1,0 +1,401 @@
+name,col,value,ranking_2019,ranking_2020,solo_band,genre,gender,origin,age_2021,grammy_won_2021,grammy_nom_2021,grammy_winning_rate
+"The Rolling Stones",total_2020,5.94,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",touring_2020,0,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",publishing_2020,1.17,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",sales_2020,1.8,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",streaming_2020,2.97,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",total_2019,65,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",touring_2019,60.5,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",publishing_2019,0.8,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",sales_2019,1.7,1,34,Band,Rock,Male,England,78,3,12,0.25
+"The Rolling Stones",streaming_2019,2,1,34,Band,Rock,Male,England,78,3,12,0.25
+"Ariana Grande",total_2020,7.53,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",touring_2020,0,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",publishing_2020,0.76,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",sales_2020,0.77,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",streaming_2020,6,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",total_2019,44.2,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",touring_2019,33.7,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",publishing_2019,1.2,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",sales_2019,1.1,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Ariana Grande",streaming_2019,8.2,2,23,Solo,Pop,Female,USA,28,2,12,0.17
+"Elton John",total_2019,43.31,3,NULL,Solo,Rock,Male,England,74,5,34,0.15
+"Elton John",touring_2019,39.5,3,NULL,Solo,Rock,Male,England,74,5,34,0.15
+"Elton John",publishing_2019,0.62,3,NULL,Solo,Rock,Male,England,74,5,34,0.15
+"Elton John",sales_2019,0.99,3,NULL,Solo,Rock,Male,England,74,5,34,0.15
+"Elton John",streaming_2019,2.2,3,NULL,Solo,Rock,Male,England,74,5,34,0.15
+"The Jonas Brothers",total_2019,40.8,4,NULL,Band,"Pop Rock",Male,USA,32,0,2,0
+"The Jonas Brothers",touring_2019,33.7,4,NULL,Band,"Pop Rock",Male,USA,32,0,2,0
+"The Jonas Brothers",publishing_2019,3.8,4,NULL,Band,"Pop Rock",Male,USA,32,0,2,0
+"The Jonas Brothers",sales_2019,1.2,4,NULL,Band,"Pop Rock",Male,USA,32,0,2,0
+"The Jonas Brothers",streaming_2019,2.1,4,NULL,Band,"Pop Rock",Male,USA,32,0,2,0
+Queen,total_2020,13.2,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,touring_2020,0,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,publishing_2020,2.4,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,sales_2020,5.3,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,streaming_2020,5.5,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,total_2019,35.2,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,touring_2019,14.4,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,publishing_2019,3.1,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,sales_2019,9.6,5,7,Band,Rock,Male,England,73,0,4,0
+Queen,streaming_2019,8.1,5,7,Band,Rock,Male,England,73,0,4,0
+"Post Malone",total_2020,23.21,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",touring_2020,12.4,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",publishing_2020,2,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",sales_2020,0.71,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",streaming_2020,8.1,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",total_2019,34.2,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",touring_2019,18.4,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",publishing_2019,3.1,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",sales_2019,1.4,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+"Post Malone",streaming_2019,11.3,6,2,Solo,"Hip Hop",Male,USA,26,0,9,0
+P!nk,total_2019,30.54,7,NULL,Solo,Pop,Female,USA,42,3,20,0.15
+P!nk,touring_2019,26.5,7,NULL,Solo,Pop,Female,USA,42,3,20,0.15
+P!nk,publishing_2019,1.2,7,NULL,Solo,Pop,Female,USA,42,3,20,0.15
+P!nk,sales_2019,1.04,7,NULL,Solo,Pop,Female,USA,42,3,20,0.15
+P!nk,streaming_2019,1.8,7,NULL,Solo,Pop,Female,USA,42,3,20,0.15
+KISS,total_2020,5.97,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,touring_2020,5,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,publishing_2020,0.19,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,sales_2020,0.35,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,streaming_2020,0.43,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,total_2019,26.7,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,touring_2019,25.7,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,publishing_2019,0.18,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,sales_2019,0.41,8,33,Band,Rock,Male,USA,66,0,1,0
+KISS,streaming_2019,0.41,8,33,Band,Rock,Male,USA,66,0,1,0
+"Billy Joel",total_2020,5.5,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",touring_2020,2.5,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",publishing_2020,0.99,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",sales_2020,0.31,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",streaming_2020,1.7,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",total_2019,26.19,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",touring_2019,23.2,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",publishing_2019,0.99,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",sales_2019,0.3,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Billy Joel",streaming_2019,1.7,9,39,Solo,Rock,Male,USA,72,5,23,0.22
+"Justin Timberlake",total_2019,25.9,10,NULL,Solo,R&B,Male,USA,40,10,39,0.26
+"Justin Timberlake",touring_2019,23.7,10,NULL,Solo,R&B,Male,USA,40,10,39,0.26
+"Justin Timberlake",publishing_2019,0.53,10,NULL,Solo,R&B,Male,USA,40,10,39,0.26
+"Justin Timberlake",sales_2019,0.17,10,NULL,Solo,R&B,Male,USA,40,10,39,0.26
+"Justin Timberlake",streaming_2019,1.5,10,NULL,Solo,R&B,Male,USA,40,10,39,0.26
+"Eric Church",total_2019,25.87,11,NULL,Solo,Country,Male,USA,44,0,10,0
+"Eric Church",touring_2019,22.8,11,NULL,Solo,Country,Male,USA,44,0,10,0
+"Eric Church",publishing_2019,0.93,11,NULL,Solo,Country,Male,USA,44,0,10,0
+"Eric Church",sales_2019,0.44,11,NULL,Solo,Country,Male,USA,44,0,10,0
+"Eric Church",streaming_2019,1.7,11,NULL,Solo,Country,Male,USA,44,0,10,0
+Cher,total_2019,25.21,12,NULL,Solo,Pop,Female,USA,75,1,7,0.14
+Cher,touring_2019,24.5,12,NULL,Solo,Pop,Female,USA,75,1,7,0.14
+Cher,publishing_2019,0.01,12,NULL,Solo,Pop,Female,USA,75,1,7,0.14
+Cher,sales_2019,0.4,12,NULL,Solo,Pop,Female,USA,75,1,7,0.14
+Cher,streaming_2019,0.3,12,NULL,Solo,Pop,Female,USA,75,1,7,0.14
+"Paul McCartney",total_2019,23.98,13,NULL,Solo,Rock,Male,England,79,18,79,0.23
+"Paul McCartney",touring_2019,18.6,13,NULL,Solo,Rock,Male,England,79,18,79,0.23
+"Paul McCartney",publishing_2019,0.78,13,NULL,Solo,Rock,Male,England,79,18,79,0.23
+"Paul McCartney",sales_2019,2.3,13,NULL,Solo,Rock,Male,England,79,18,79,0.23
+"Paul McCartney",streaming_2019,2.3,13,NULL,Solo,Rock,Male,England,79,18,79,0.23
+"Trans-Siberian Orchestra",total_2019,22.77,14,NULL,Band,Rock,Mixed,USA,NULL,0,0,NULL
+"Trans-Siberian Orchestra",touring_2019,22.2,14,NULL,Band,Rock,Mixed,USA,NULL,0,0,NULL
+"Trans-Siberian Orchestra",publishing_2019,0.14,14,NULL,Band,Rock,Mixed,USA,NULL,0,0,NULL
+"Trans-Siberian Orchestra",sales_2019,0.2,14,NULL,Band,Rock,Mixed,USA,NULL,0,0,NULL
+"Trans-Siberian Orchestra",streaming_2019,0.23,14,NULL,Band,Rock,Mixed,USA,NULL,0,0,NULL
+"George Strait",total_2020,6.91,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",touring_2020,4.2,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",publishing_2020,0.17,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",sales_2020,0.45,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",streaming_2020,2.1,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",total_2019,22.2,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",touring_2019,18.8,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",publishing_2019,0.16,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",sales_2019,0.84,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"George Strait",streaming_2019,2.4,15,26,Solo,Country,Male,USA,69,1,16,0.06
+"Celine Dion",total_2020,17.51,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",touring_2020,17,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",publishing_2020,0,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",sales_2020,0.22,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",streaming_2020,0.29,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",total_2019,21.93,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",touring_2019,20.4,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",publishing_2019,0.01,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",sales_2019,0.57,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Celine Dion",streaming_2019,0.95,16,3,Solo,Pop,Female,Canada,53,5,16,0.31
+"Dead & Company",total_2019,21.84,17,NULL,Band,Rock,Male,USA,64,0,0,NULL
+"Dead & Company",touring_2019,19.8,17,NULL,Band,Rock,Male,USA,64,0,0,NULL
+"Dead & Company",publishing_2019,0.42,17,NULL,Band,Rock,Male,USA,64,0,0,NULL
+"Dead & Company",sales_2019,0.75,17,NULL,Band,Rock,Male,USA,64,0,0,NULL
+"Dead & Company",streaming_2019,0.87,17,NULL,Band,Rock,Male,USA,64,0,0,NULL
+"Lady Gaga",total_2019,21.13,18,NULL,Solo,Pop,Female,USA,35,12,29,0.41
+"Lady Gaga",touring_2019,16.9,18,NULL,Solo,Pop,Female,USA,35,12,29,0.41
+"Lady Gaga",publishing_2019,0.74,18,NULL,Solo,Pop,Female,USA,35,12,29,0.41
+"Lady Gaga",sales_2019,0.99,18,NULL,Solo,Pop,Female,USA,35,12,29,0.41
+"Lady Gaga",streaming_2019,2.5,18,NULL,Solo,Pop,Female,USA,35,12,29,0.41
+"Backstreet Boys",total_2019,21.04,19,NULL,Band,Pop,Male,USA,46,0,8,0
+"Backstreet Boys",touring_2019,19,19,NULL,Band,Pop,Male,USA,46,0,8,0
+"Backstreet Boys",publishing_2019,0.03,19,NULL,Band,Pop,Male,USA,46,0,8,0
+"Backstreet Boys",sales_2019,0.91,19,NULL,Band,Pop,Male,USA,46,0,8,0
+"Backstreet Boys",streaming_2019,1.1,19,NULL,Band,Pop,Male,USA,46,0,8,0
+"Michael Buble",total_2019,21,20,NULL,Solo,Pop,Male,Canada,46,4,11,0.36
+"Michael Buble",touring_2019,18.6,20,NULL,Solo,Pop,Male,Canada,46,4,11,0.36
+"Michael Buble",publishing_2019,0.04,20,NULL,Solo,Pop,Male,Canada,46,4,11,0.36
+"Michael Buble",sales_2019,0.66,20,NULL,Solo,Pop,Male,Canada,46,4,11,0.36
+"Michael Buble",streaming_2019,1.7,20,NULL,Solo,Pop,Male,Canada,46,4,11,0.36
+"Florida Georgia Line",total_2019,20.9,21,NULL,Band,Country,Male,USA,35,0,1,0
+"Florida Georgia Line",touring_2019,16.9,21,NULL,Band,Country,Male,USA,35,0,1,0
+"Florida Georgia Line",publishing_2019,1,21,NULL,Band,Country,Male,USA,35,0,1,0
+"Florida Georgia Line",sales_2019,0.4,21,NULL,Band,Country,Male,USA,35,0,1,0
+"Florida Georgia Line",streaming_2019,2.6,21,NULL,Band,Country,Male,USA,35,0,1,0
+BTS,total_2020,8.97,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,touring_2020,0,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,publishing_2020,0.97,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,sales_2020,4.3,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,streaming_2020,3.7,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,total_2019,20.6,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,touring_2019,15.1,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,publishing_2019,0.6,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,sales_2019,2,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+BTS,streaming_2019,2.9,22,19,Band,K-Pop,Male,"South Korea",27,0,1,0
+"Bad Bunny",total_2020,8.42,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",touring_2020,0,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",publishing_2020,1.4,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",sales_2020,0.22,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",streaming_2020,6.8,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",total_2019,19.61,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",touring_2019,15.5,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",publishing_2019,1.4,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",sales_2019,0.11,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bad Bunny",streaming_2019,2.6,23,21,Solo,"Latin trap",Male,"Puerto Rico",27,1,5,0.2
+"Bob Seger",total_2019,18.64,24,NULL,Solo,Rock,Male,USA,76,1,7,0.14
+"Bob Seger",touring_2019,16.2,24,NULL,Solo,Rock,Male,USA,76,1,7,0.14
+"Bob Seger",publishing_2019,0.6,24,NULL,Solo,Rock,Male,USA,76,1,7,0.14
+"Bob Seger",sales_2019,0.85,24,NULL,Solo,Rock,Male,USA,76,1,7,0.14
+"Bob Seger",streaming_2019,0.99,24,NULL,Solo,Rock,Male,USA,76,1,7,0.14
+Khalid,total_2019,18.6,25,NULL,Solo,R&B,Male,USA,23,0,6,0
+Khalid,touring_2019,9,25,NULL,Solo,R&B,Male,USA,23,0,6,0
+Khalid,publishing_2019,2,25,NULL,Solo,R&B,Male,USA,23,0,6,0
+Khalid,sales_2019,1.1,25,NULL,Solo,R&B,Male,USA,23,0,6,0
+Khalid,streaming_2019,6.5,25,NULL,Solo,R&B,Male,USA,23,0,6,0
+Aerosmith,total_2020,5.43,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,touring_2020,2.7,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,publishing_2020,0.84,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,sales_2020,0.56,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,streaming_2020,1.33,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,total_2019,18.33,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,touring_2019,15.9,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,publishing_2019,0.61,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,sales_2019,0.52,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Aerosmith,streaming_2019,1.3,26,40,Band,Rock,Male,USA,71,4,14,0.29
+Metallica,total_2020,9,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,touring_2020,0,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,publishing_2020,1.4,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,sales_2020,3.7,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,streaming_2020,3.9,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,total_2019,18,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,touring_2019,9.5,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,publishing_2019,1.3,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,sales_2019,3.6,27,18,Band,Metal,Male,USA,58,8,18,0.44
+Metallica,streaming_2019,3.6,27,18,Band,Metal,Male,USA,58,8,18,0.44
+"New Kids on the Block",total_2019,17.94,28,NULL,Band,Pop,Male,USA,51,0,1,0
+"New Kids on the Block",touring_2019,17.7,28,NULL,Band,Pop,Male,USA,51,0,1,0
+"New Kids on the Block",publishing_2019,0.01,28,NULL,Band,Pop,Male,USA,51,0,1,0
+"New Kids on the Block",sales_2019,0.14,28,NULL,Band,Pop,Male,USA,51,0,1,0
+"New Kids on the Block",streaming_2019,0.09,28,NULL,Band,Pop,Male,USA,51,0,1,0
+"Jennifer Lopez",total_2019,17.72,29,NULL,Solo,R&B,Female,USA,52,0,2,0
+"Jennifer Lopez",touring_2019,16.9,29,NULL,Solo,R&B,Female,USA,52,0,2,0
+"Jennifer Lopez",publishing_2019,0.03,29,NULL,Solo,R&B,Female,USA,52,0,2,0
+"Jennifer Lopez",sales_2019,0.04,29,NULL,Solo,R&B,Female,USA,52,0,2,0
+"Jennifer Lopez",streaming_2019,0.75,29,NULL,Solo,R&B,Female,USA,52,0,2,0
+"Carrie Underwood",total_2019,17.52,30,NULL,Solo,Country,Female,USA,38,7,14,0.5
+"Carrie Underwood",touring_2019,15.2,30,NULL,Solo,Country,Female,USA,38,7,14,0.5
+"Carrie Underwood",publishing_2019,0.33,30,NULL,Solo,Country,Female,USA,38,7,14,0.5
+"Carrie Underwood",sales_2019,0.59,30,NULL,Solo,Country,Female,USA,38,7,14,0.5
+"Carrie Underwood",streaming_2019,1.4,30,NULL,Solo,Country,Female,USA,38,7,14,0.5
+"Billie Eilish",total_2020,14.7,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",touring_2020,1,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",publishing_2020,5.7,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",sales_2020,2.1,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",streaming_2020,5.9,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",total_2019,17.2,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",touring_2019,1.7,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",publishing_2019,6.9,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",sales_2019,2.5,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Billie Eilish",streaming_2019,6.1,31,5,Solo,Pop,Female,USA,20,7,10,0.7
+"Shawn Mendes",total_2019,17.19,32,NULL,Solo,Pop,Male,Canada,23,0,3,0
+"Shawn Mendes",touring_2019,11.9,32,NULL,Solo,Pop,Male,Canada,23,0,3,0
+"Shawn Mendes",publishing_2019,1.8,32,NULL,Solo,Pop,Male,Canada,23,0,3,0
+"Shawn Mendes",sales_2019,0.39,32,NULL,Solo,Pop,Male,Canada,23,0,3,0
+"Shawn Mendes",streaming_2019,3.1,32,NULL,Solo,Pop,Male,Canada,23,0,3,0
+"Luke Combs",total_2020,9.17,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",touring_2020,1,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",publishing_2020,1.8,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",sales_2020,0.87,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",streaming_2020,5.5,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",total_2019,17.1,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",touring_2019,10.5,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",publishing_2019,1.5,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",sales_2019,1.1,33,16,Solo,Country,Male,USA,31,0,2,0
+"Luke Combs",streaming_2019,4,33,16,Solo,Country,Male,USA,31,0,2,0
+"Zac Brown Band",total_2019,17.08,34,NULL,Band,Country,Male,USA,48,3,8,0.38
+"Zac Brown Band",touring_2019,14.1,34,NULL,Band,Country,Male,USA,48,3,8,0.38
+"Zac Brown Band",publishing_2019,0.99,34,NULL,Band,Country,Male,USA,48,3,8,0.38
+"Zac Brown Band",sales_2019,0.49,34,NULL,Band,Country,Male,USA,48,3,8,0.38
+"Zac Brown Band",streaming_2019,1.5,34,NULL,Band,Country,Male,USA,48,3,8,0.38
+"Thomas Rhett",total_2019,16.69,35,NULL,Solo,Country,Male,USA,31,0,4,0
+"Thomas Rhett",touring_2019,13.2,35,NULL,Solo,Country,Male,USA,31,0,4,0
+"Thomas Rhett",publishing_2019,0.48,35,NULL,Solo,Country,Male,USA,31,0,4,0
+"Thomas Rhett",sales_2019,0.41,35,NULL,Solo,Country,Male,USA,31,0,4,0
+"Thomas Rhett",streaming_2019,2.6,35,NULL,Solo,Country,Male,USA,31,0,4,0
+"John Mayer",total_2019,16.58,36,NULL,Solo,Rock,Male,USA,44,7,19,0.37
+"John Mayer",touring_2019,13.6,36,NULL,Solo,Rock,Male,USA,44,7,19,0.37
+"John Mayer",publishing_2019,0.96,36,NULL,Solo,Rock,Male,USA,44,7,19,0.37
+"John Mayer",sales_2019,0.22,36,NULL,Solo,Rock,Male,USA,44,7,19,0.37
+"John Mayer",streaming_2019,1.8,36,NULL,Solo,Rock,Male,USA,44,7,19,0.37
+"Jason Aldean",total_2019,16.32,37,NULL,Solo,Country,Male,USA,44,0,4,0
+"Jason Aldean",touring_2019,12.6,37,NULL,Solo,Country,Male,USA,44,0,4,0
+"Jason Aldean",publishing_2019,0.04,37,NULL,Solo,Country,Male,USA,44,0,4,0
+"Jason Aldean",sales_2019,0.58,37,NULL,Solo,Country,Male,USA,44,0,4,0
+"Jason Aldean",streaming_2019,3.1,37,NULL,Solo,Country,Male,USA,44,0,4,0
+"Fleetwood Mac",total_2020,6.6,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",touring_2020,0,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",publishing_2020,1.6,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",sales_2020,1.8,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",streaming_2020,3.2,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",total_2019,15.6,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",touring_2019,11.2,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",publishing_2019,1.1,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",sales_2019,1.1,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Fleetwood Mac",streaming_2019,2.2,38,29,Band,Rock,Mixed,England,73,2,7,0.29
+"Travis Scott",total_2020,5.82,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",touring_2020,0,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",publishing_2020,0.37,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",sales_2020,0.49,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",streaming_2020,4.96,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",total_2019,15.53,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",touring_2019,9.2,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",publishing_2019,0.5,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",sales_2019,0.33,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"Travis Scott",streaming_2019,5.5,39,35,Solo,"Hip Hop",Male,USA,30,0,8,0
+"PANIC! at the Disco",total_2019,15.44,40,NULL,Solo,"Pop Rock",Male,USA,34,0,2,0
+"PANIC! at the Disco",touring_2019,7.9,40,NULL,Solo,"Pop Rock",Male,USA,34,0,2,0
+"PANIC! at the Disco",publishing_2019,3.6,40,NULL,Solo,"Pop Rock",Male,USA,34,0,2,0
+"PANIC! at the Disco",sales_2019,0.94,40,NULL,Solo,"Pop Rock",Male,USA,34,0,2,0
+"PANIC! at the Disco",streaming_2019,3,40,NULL,Solo,"Pop Rock",Male,USA,34,0,2,0
+"Taylor Swift",total_2020,23.8,NULL,1,Solo,Pop,Female,USA,32,11,41,0.27
+"Taylor Swift",touring_2020,0,NULL,1,Solo,Pop,Female,USA,32,11,41,0.27
+"Taylor Swift",publishing_2020,3.2,NULL,1,Solo,Pop,Female,USA,32,11,41,0.27
+"Taylor Swift",sales_2020,10,NULL,1,Solo,Pop,Female,USA,32,11,41,0.27
+"Taylor Swift",streaming_2020,10.6,NULL,1,Solo,Pop,Female,USA,32,11,41,0.27
+Eagles,total_2020,16.27,NULL,4,Band,Rock,Male,USA,72,6,18,0.33
+Eagles,touring_2020,11.4,NULL,4,Band,Rock,Male,USA,72,6,18,0.33
+Eagles,publishing_2020,1.2,NULL,4,Band,Rock,Male,USA,72,6,18,0.33
+Eagles,sales_2020,0.97,NULL,4,Band,Rock,Male,USA,72,6,18,0.33
+Eagles,streaming_2020,2.7,NULL,4,Band,Rock,Male,USA,72,6,18,0.33
+Drake,total_2020,14.24,NULL,6,Solo,"Hip Hop",Male,Canada,35,4,47,0.09
+Drake,touring_2020,0,NULL,6,Solo,"Hip Hop",Male,Canada,35,4,47,0.09
+Drake,publishing_2020,1.9,NULL,6,Solo,"Hip Hop",Male,Canada,35,4,47,0.09
+Drake,sales_2020,0.64,NULL,6,Solo,"Hip Hop",Male,Canada,35,4,47,0.09
+Drake,streaming_2020,11.7,NULL,6,Solo,"Hip Hop",Male,Canada,35,4,47,0.09
+"The Beatles",total_2020,12.9,NULL,8,Band,Rock,Male,England,80,7,23,0.3
+"The Beatles",touring_2020,0,NULL,8,Band,Rock,Male,England,80,7,23,0.3
+"The Beatles",publishing_2020,2.6,NULL,8,Band,Rock,Male,England,80,7,23,0.3
+"The Beatles",sales_2020,5.2,NULL,8,Band,Rock,Male,England,80,7,23,0.3
+"The Beatles",streaming_2020,5.1,NULL,8,Band,Rock,Male,England,80,7,23,0.3
+"YoungBoy Never Broke Again",total_2020,11.96,NULL,9,Solo,"Hip Hop",Male,USA,22,0,0,NULL
+"YoungBoy Never Broke Again",touring_2020,0.13,NULL,9,Solo,"Hip Hop",Male,USA,22,0,0,NULL
+"YoungBoy Never Broke Again",publishing_2020,1.7,NULL,9,Solo,"Hip Hop",Male,USA,22,0,0,NULL
+"YoungBoy Never Broke Again",sales_2020,0.13,NULL,9,Solo,"Hip Hop",Male,USA,22,0,0,NULL
+"YoungBoy Never Broke Again",streaming_2020,10,NULL,9,Solo,"Hip Hop",Male,USA,22,0,0,NULL
+"Lil Baby",total_2020,11.71,NULL,10,Solo,"Hip Hop",Male,USA,27,0,3,0
+"Lil Baby",touring_2020,0.25,NULL,10,Solo,"Hip Hop",Male,USA,27,0,3,0
+"Lil Baby",publishing_2020,2.2,NULL,10,Solo,"Hip Hop",Male,USA,27,0,3,0
+"Lil Baby",sales_2020,0.15,NULL,10,Solo,"Hip Hop",Male,USA,27,0,3,0
+"Lil Baby",streaming_2020,9.1,NULL,10,Solo,"Hip Hop",Male,USA,27,0,3,0
+"The Weeknd",total_2020,10.4,NULL,11,Solo,R&B,Male,Canada,31,3,10,0.3
+"The Weeknd",touring_2020,0,NULL,11,Solo,R&B,Male,Canada,31,3,10,0.3
+"The Weeknd",publishing_2020,1.6,NULL,11,Solo,R&B,Male,Canada,31,3,10,0.3
+"The Weeknd",sales_2020,1.5,NULL,11,Solo,R&B,Male,Canada,31,3,10,0.3
+"The Weeknd",streaming_2020,7.3,NULL,11,Solo,R&B,Male,Canada,31,3,10,0.3
+Aventura,total_2020,10.19,NULL,12,Band,Bachata,Male,USA,41,0,0,NULL
+Aventura,touring_2020,8.8,NULL,12,Band,Bachata,Male,USA,41,0,0,NULL
+Aventura,publishing_2020,0.44,NULL,12,Band,Bachata,Male,USA,41,0,0,NULL
+Aventura,sales_2020,0.01,NULL,12,Band,Bachata,Male,USA,41,0,0,NULL
+Aventura,streaming_2020,0.94,NULL,12,Band,Bachata,Male,USA,41,0,0,NULL
+AC/DC,total_2020,10.1,NULL,13,Band,Rock,Male,Australia,69,1,7,0.14
+AC/DC,touring_2020,0,NULL,13,Band,Rock,Male,Australia,69,1,7,0.14
+AC/DC,publishing_2020,1.8,NULL,13,Band,Rock,Male,Australia,69,1,7,0.14
+AC/DC,sales_2020,4,NULL,13,Band,Rock,Male,Australia,69,1,7,0.14
+AC/DC,streaming_2020,4.3,NULL,13,Band,Rock,Male,Australia,69,1,7,0.14
+Eminem,total_2020,9.7,NULL,14,Solo,"Hip Hop",Male,USA,49,15,44,0.34
+Eminem,touring_2020,0,NULL,14,Solo,"Hip Hop",Male,USA,49,15,44,0.34
+Eminem,publishing_2020,1.8,NULL,14,Solo,"Hip Hop",Male,USA,49,15,44,0.34
+Eminem,sales_2020,1.3,NULL,14,Solo,"Hip Hop",Male,USA,49,15,44,0.34
+Eminem,streaming_2020,6.6,NULL,14,Solo,"Hip Hop",Male,USA,49,15,44,0.34
+"Lil Uzi Vert",total_2020,9.49,NULL,15,Solo,"Hip Hop",Male,USA,27,0,2,0
+"Lil Uzi Vert",touring_2020,0,NULL,15,Solo,"Hip Hop",Male,USA,27,0,2,0
+"Lil Uzi Vert",publishing_2020,1.8,NULL,15,Solo,"Hip Hop",Male,USA,27,0,2,0
+"Lil Uzi Vert",sales_2020,0.09,NULL,15,Solo,"Hip Hop",Male,USA,27,0,2,0
+"Lil Uzi Vert",streaming_2020,7.6,NULL,15,Solo,"Hip Hop",Male,USA,27,0,2,0
+DaBaby,total_2020,9.07,NULL,17,Solo,"Hip Hop",Male,USA,30,0,6,0
+DaBaby,touring_2020,0.31,NULL,17,Solo,"Hip Hop",Male,USA,30,0,6,0
+DaBaby,publishing_2020,1.5,NULL,17,Solo,"Hip Hop",Male,USA,30,0,6,0
+DaBaby,sales_2020,0.16,NULL,17,Solo,"Hip Hop",Male,USA,30,0,6,0
+DaBaby,streaming_2020,7.1,NULL,17,Solo,"Hip Hop",Male,USA,30,0,6,0
+"Pink Floyd",total_2020,8.8,NULL,20,Band,Rock,Male,England,77,1,4,0.25
+"Pink Floyd",touring_2020,0,NULL,20,Band,Rock,Male,England,77,1,4,0.25
+"Pink Floyd",publishing_2020,1.3,NULL,20,Band,Rock,Male,England,77,1,4,0.25
+"Pink Floyd",sales_2020,4.3,NULL,20,Band,Rock,Male,England,77,1,4,0.25
+"Pink Floyd",streaming_2020,3.2,NULL,20,Band,Rock,Male,England,77,1,4,0.25
+Future,total_2020,8.19,NULL,22,Solo,"Hip Hop",Male,USA,38,1,4,0.25
+Future,touring_2020,0,NULL,22,Solo,"Hip Hop",Male,USA,38,1,4,0.25
+Future,publishing_2020,1.6,NULL,22,Solo,"Hip Hop",Male,USA,38,1,4,0.25
+Future,sales_2020,0.19,NULL,22,Solo,"Hip Hop",Male,USA,38,1,4,0.25
+Future,streaming_2020,6.4,NULL,22,Solo,"Hip Hop",Male,USA,38,1,4,0.25
+"Roddy Ricch",total_2020,7.41,NULL,24,Solo,"Hip Hop",Male,USA,23,1,9,0.11
+"Roddy Ricch",touring_2020,0.09,NULL,24,Solo,"Hip Hop",Male,USA,23,1,9,0.11
+"Roddy Ricch",publishing_2020,1.5,NULL,24,Solo,"Hip Hop",Male,USA,23,1,9,0.11
+"Roddy Ricch",sales_2020,0.12,NULL,24,Solo,"Hip Hop",Male,USA,23,1,9,0.11
+"Roddy Ricch",streaming_2020,5.7,NULL,24,Solo,"Hip Hop",Male,USA,23,1,9,0.11
+"Rod Wave",total_2020,7.37,NULL,25,Solo,"Hip Hop",Male,USA,23,0,0,NULL
+"Rod Wave",touring_2020,0,NULL,25,Solo,"Hip Hop",Male,USA,23,0,0,NULL
+"Rod Wave",publishing_2020,1.3,NULL,25,Solo,"Hip Hop",Male,USA,23,0,0,NULL
+"Rod Wave",sales_2020,0.07,NULL,25,Solo,"Hip Hop",Male,USA,23,0,0,NULL
+"Rod Wave",streaming_2020,6,NULL,25,Solo,"Hip Hop",Male,USA,23,0,0,NULL
+"The Lumineers",total_2020,6.77,NULL,27,Band,Indie,Male,USA,37,0,2,0
+"The Lumineers",touring_2020,4.3,NULL,27,Band,Indie,Male,USA,37,0,2,0
+"The Lumineers",publishing_2020,0.84,NULL,27,Band,Indie,Male,USA,37,0,2,0
+"The Lumineers",sales_2020,0.34,NULL,27,Band,Indie,Male,USA,37,0,2,0
+"The Lumineers",streaming_2020,1.3,NULL,27,Band,Indie,Male,USA,37,0,2,0
+"Blake Shelton",total_2020,6.69,NULL,28,Solo,Country,Male,USA,45,0,8,0
+"Blake Shelton",touring_2020,3.9,NULL,28,Solo,Country,Male,USA,45,0,8,0
+"Blake Shelton",publishing_2020,0,NULL,28,Solo,Country,Male,USA,45,0,8,0
+"Blake Shelton",sales_2020,0.59,NULL,28,Solo,Country,Male,USA,45,0,8,0
+"Blake Shelton",streaming_2020,2.2,NULL,28,Solo,Country,Male,USA,45,0,8,0
+"Kanye West",total_2020,6.3,NULL,30,Solo,"Hip Hop",Male,USA,44,22,70,0.31
+"Kanye West",touring_2020,0,NULL,30,Solo,"Hip Hop",Male,USA,44,22,70,0.31
+"Kanye West",publishing_2020,1.6,NULL,30,Solo,"Hip Hop",Male,USA,44,22,70,0.31
+"Kanye West",sales_2020,0.8,NULL,30,Solo,"Hip Hop",Male,USA,44,22,70,0.31
+"Kanye West",streaming_2020,3.9,NULL,30,Solo,"Hip Hop",Male,USA,44,22,70,0.31
+"Justin Bieber",total_2020,6.24,NULL,31,Solo,Pop,Male,Canada,27,2,14,0.14
+"Justin Bieber",touring_2020,0,NULL,31,Solo,Pop,Male,Canada,27,2,14,0.14
+"Justin Bieber",publishing_2020,0.44,NULL,31,Solo,Pop,Male,Canada,27,2,14,0.14
+"Justin Bieber",sales_2020,1.1,NULL,31,Solo,Pop,Male,Canada,27,2,14,0.14
+"Justin Bieber",streaming_2020,4.7,NULL,31,Solo,Pop,Male,Canada,27,2,14,0.14
+Tool,total_2020,6.19,NULL,32,Band,Metal,Male,USA,56,3,6,0.5
+Tool,touring_2020,4.2,NULL,32,Band,Metal,Male,USA,56,3,6,0.5
+Tool,publishing_2020,0.61,NULL,32,Band,Metal,Male,USA,56,3,6,0.5
+Tool,sales_2020,0.56,NULL,32,Band,Metal,Male,USA,56,3,6,0.5
+Tool,streaming_2020,0.82,NULL,32,Band,Metal,Male,USA,56,3,6,0.5
+"Ed Sheeran",total_2020,5.66,NULL,36,Solo,Pop,Male,England,30,4,14,0.29
+"Ed Sheeran",touring_2020,0,NULL,36,Solo,Pop,Male,England,30,4,14,0.29
+"Ed Sheeran",publishing_2020,1.53,NULL,36,Solo,Pop,Male,England,30,4,14,0.29
+"Ed Sheeran",sales_2020,0.39,NULL,36,Solo,Pop,Male,England,30,4,14,0.29
+"Ed Sheeran",streaming_2020,3.74,NULL,36,Solo,Pop,Male,England,30,4,14,0.29
+Halsey,total_2020,5.55,NULL,37,Solo,Pop,Female,USA,27,0,2,0
+Halsey,touring_2020,0,NULL,37,Solo,Pop,Female,USA,27,0,2,0
+Halsey,publishing_2020,1.1,NULL,37,Solo,Pop,Female,USA,27,0,2,0
+Halsey,sales_2020,0.97,NULL,37,Solo,Pop,Female,USA,27,0,2,0
+Halsey,streaming_2020,3.48,NULL,37,Solo,Pop,Female,USA,27,0,2,0
+"Harry Styles",total_2020,5.54,NULL,38,Solo,Pop,Male,England,27,1,3,0.33
+"Harry Styles",touring_2020,0,NULL,38,Solo,Pop,Male,England,27,1,3,0.33
+"Harry Styles",publishing_2020,0.4,NULL,38,Solo,Pop,Male,England,27,1,3,0.33
+"Harry Styles",sales_2020,1.84,NULL,38,Solo,Pop,Male,England,27,1,3,0.33
+"Harry Styles",streaming_2020,3.3,NULL,38,Solo,Pop,Male,England,27,1,3,0.33
