@@ -62,6 +62,7 @@ One of the main elements on the dashboard are the Coxcomb Charts, displaying the
 These were built based on Toan Hoang's awesome [tutorial](https://tableau.toanhoang.com/creating-a-coxcomb-chart-in-tableau).  
 
 **Base calculations in the workbook:**
+
 **TC_Index**
 ```
 INDEX()-1
