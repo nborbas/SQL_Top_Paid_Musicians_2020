@@ -6,10 +6,10 @@ Tableau Workbook is downloadable from the link.
 
 ## Story
 This was the first project where I have collected the data myself.  
-Although, it was a basic process where data was collected manually from Billboard's website ([2020 data here](https://www.billboard.com/music/music-news/musician-us-money-makers-highest-paid-2020-9602078/) into Excel files.
+Although, it was a basic process where data was collected manually from Billboard's website ([2020 data here](https://www.billboard.com/music/music-news/musician-us-money-makers-highest-paid-2020-9602078/)) into Excel files.
 
 At the point of data collection, I did not know what I would like to visualize.  
-After figuring it out, I needed the 2019 and 2020 data in another merged, pivoted and unpivoted formats, so I rubbed my hands together that I can use some SQL for problem solving. I went with MSSQL and the scripts are attached to the repo with some highlights below from the code.
+After figuring it out, I needed the 2019 and 2020 data in another merged, pivoted and unpivoted formats, so I rubbed my hands together that I can use some SQL for problem solving. I went with MSSQL and the **scripts are attached to the repo with some highlights from the code below.**  
 
 ## SQL
 
@@ -24,7 +24,7 @@ After figuring it out, I needed the 2019 and 2020 data in another merged, pivote
 **Details for Step 2**, with code snippet highlighted on how to do unpivoting using "col" and "value" functionality and UNION ALL statement:
 ```
 SELECT
-	ranking_2019,name,
+    ranking_2019,name,
     'streaming_2019' col, -- Converting 'streaming_2019' column name into a value in the "col" column
     streaming_2019 value, -- Converting the corresponding values into the "value" column
     solo_band, genre, gender, age_2021, grammy_won_2021, grammy_nom_2021, grammy_winning_rate, origin
@@ -38,11 +38,11 @@ UNION ALL -- Union all other revenue types to get the unpivoted data
 ```
 WITH cte -- Introducing Common Table Expressions for a cleaner query
 AS
-	(SELECT name, solo_band, genre, gender, origin, age_2021, grammy_won_2021, grammy_nom_2021, grammy_winning_rate
-	FROM new_schema.tp2019_unpivot
-	UNION ALL
-	SELECT name, solo_band, genre, gender, origin, age_2021, grammy_won_2021, grammy_nom_2021, grammy_winning_rate
-    FROM new_schema.tp2020_unpivot),
+   (SELECT name, solo_band, genre, gender, origin, age_2021, grammy_won_2021, grammy_nom_2021, grammy_winning_rate
+   FROM new_schema.tp2019_unpivot
+   UNION ALL
+   SELECT name, solo_band, genre, gender, origin, age_2021, grammy_won_2021, grammy_nom_2021, grammy_winning_rate
+   FROM new_schema.tp2020_unpivot),
 ...
 ```
 
@@ -50,10 +50,10 @@ AS
 ```
 SELECT DISTINCT subquery.name, streaming_2020, sales_2020, publishing_2020, touring_2020, total_2020, streaming_2019, sales_2019, publishing_2019, touring_2019
 FROM
-	-- Creating subquery to gather all names in both year's table then selecting distinctively in the SELECT statement.
-	(SELECT name FROM new_schema.top_paid_2020
-	UNION ALL
-	SELECT name FROM new_schema.top_paid_2019) AS subquery
+   -- Creating subquery to gather all names in both year's table then selecting distinctively in the SELECT statement.
+   (SELECT name FROM new_schema.top_paid_2020
+   UNION ALL
+   SELECT name FROM new_schema.top_paid_2019) AS subquery
 ```
 
 ## Tableau Calculations
@@ -87,20 +87,22 @@ WINDOW_MAX(MAX([Rev. Type Code]))-1
 **X** = column "coordinate" (using SIN)
 ```
 IF [TC_Index]<= 100 THEN
-    SIN(RADIANS(([TC_Index]*[TC_Step Size])+[TC_Starting Point]))*([TC_Previos SUM Revenue])
+   SIN(RADIANS(([TC_Index]*[TC_Step Size])+[TC_Starting Point]))*([TC_Previos SUM Revenue])
 ELSE
-    SIN(RADIANS(((201-[TC_Index])*[TC_Step Size])+[TC_Starting Point]))*([TC_SUM Revenue]+[TC_Previos SUM Revenue])
+   SIN(RADIANS(((201-[TC_Index])*[TC_Step Size])+[TC_Starting Point]))*([TC_SUM Revenue]+[TC_Previos SUM Revenue])
 END
 ```
 **Y** = row "coordinate" (using COS)
 ```
 IF [TC_Index]<= 100 THEN 
-    COS(RADIANS(([TC_Index]*[TC_Step Size])+[TC_Starting Point]))*([TC_Previos SUM Revenue])
+   COS(RADIANS(([TC_Index]*[TC_Step Size])+[TC_Starting Point]))*([TC_Previos SUM Revenue])
 ELSE
-    COS(RADIANS(((201-[TC_Index])*[TC_Step Size])+[TC_Starting Point]))*([TC_SUM Revenue]+[TC_Previos SUM Revenue])
+   COS(RADIANS(((201-[TC_Index])*[TC_Step Size])+[TC_Starting Point]))*([TC_SUM Revenue]+[TC_Previos SUM Revenue])
+END
 ```    
 
 **+ 1 extra calculation** that I would like to highlight here is the one which returns whether an artist is new on the 2020 list or were listed in 2019 as well  
+
 **New On List 2020**
 ```
 IF {FIXED [Name] : MIN({EXCLUDE YEAR([Year]) : MIN(YEAR([Year]))})} = 2020 THEN "New On List"
