@@ -9,7 +9,7 @@ This was the first project where I have collected the data myself.
 Although, it was a basic process where data was collected manually from Billboard's website ([2020 data here](https://www.billboard.com/music/music-news/musician-us-money-makers-highest-paid-2020-9602078/)) into Excel files.
 
 At the point of data collection, I did not know what I would like to visualize.  
-After figuring it out, I needed the 2019 and 2020 data in another merged, pivoted and unpivoted formats, so I rubbed my hands together that I can use some SQL for problem solving. I went with MSSQL and the **scripts are attached to the repo with some highlights from the code below.**  
+After figuring it out, I needed the 2019 and 2020 data in another merged, pivoted and unpivoted formats, so I rubbed my hands together that I can use some SQL for problem solving. I went with MySQL and the **scripts are attached to the repo with some highlights from the code below.**  
 
 ## SQL
 
